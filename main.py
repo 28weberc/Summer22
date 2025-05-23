@@ -253,11 +253,6 @@ t.write("Happy Summer!", font=("Arial", 15, "italic"), align="center")
 
 
 
-
-
-
-
-
 # #snowman
 # t.penup()
 # t.goto(200, -100)
